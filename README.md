@@ -7,4 +7,4 @@ I'm a Java full stack developer, and I'd like to make some contributions for Jav
 - <https://github.com/keington>
 - <https://dbsecurity.com.cn>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=lanyulei&show_icons=true&count_private=true)](https://github.com/keington)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=keington&show_icons=true&count_private=true)](https://github.com/keington)

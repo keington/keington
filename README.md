@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Java full stack developer, and I'd like to make some contributions for Java open source and share some thoughts on my blog and github.
+I'm a Java back-end developer, and I'd like to make some contributions for Java open source and share some thoughts on my blog and github.
 
 ### Find me
 

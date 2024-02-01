@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Java and Golang developer, and I'd like to make some contributions for open source and share some thoughts on my blog and github.
+I am a Java and Golang developer who wants to make some contributions to open source and share some ideas on my blog and github, trying to be a salty fish with dreams.
 
 ### Find me
 
